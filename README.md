@@ -2,8 +2,8 @@
 Projet partagé.
 Bienvenus les Javascribes.
 
-1/Créer un Repository (dossier contenant les elements d'un site web)
-2/Menu horizontal, Settings
-3/Menu vertical, Collaborators
-4/ADD+
-5/nom de la personne à inviter.
+1/Créer un Repository (dossier contenant les elements d'un site web) </br>
+2/Menu horizontal, Settings</br>
+3/Menu vertical, Collaborators</br>
+4/ADD+</br>
+5/nom de la personne à inviter.</br>
